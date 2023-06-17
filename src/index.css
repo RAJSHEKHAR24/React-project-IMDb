@@ -5,6 +5,15 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: #03050a;
+  background-color: #03050a;
+  opacity: 0.9;
+  background-image:  radial-gradient(#2c2049 0.6000000000000001px, transparent 0.6000000000000001px), radial-gradient(#2c2049 0.6000000000000001px, #03050a 0.6000000000000001px);
+  background-size: 24px 24px;
+  background-position: 0 0,12px 12px;
+  /* overflow-y: hidden; */
+  /* overflow-x: hidden; */
+  
 }
 
 code {
